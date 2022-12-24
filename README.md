@@ -17,10 +17,10 @@ Portuguese 🇧🇷
 Japanese 🇯🇵
 Translate App on Weblate
 
-Features
-Best Streaming Quality (320kbps aac)
-Song, Album, Artist and Playlist Search
-Language Specific Promoted Playlists
+# Features
++ Best Streaming Quality (320kbps aac)
++ Song, Album, Artist and Playlist Search
++ Language Specific Promoted Playlists
 Trending Songs
 Artist and Genre Radios
 Support 15+ music languages
@@ -48,10 +48,10 @@ Auto Song Recommendations
 Inbuilt Equalizer
 Backup & Restore
 Auto Update Check
-Cache support
-No Subscription
-No Ads
-and much more... Check it yourself :)
++ Cache support
++ No Subscription
++ No Ads
++ and much more... Check it yourself :)
 
 Screenshots
      
@@ -79,7 +79,7 @@ See the GNU General Public License for more details.
 Building from Source
 If you don't have Flutter SDK installed, please visit official Flutter site.
 Fetch latest source code from master branch.
-git clone https://github.com/Sangwan5688/BlackHole.git
+
 Run the app with Android Studio or VS Code. Or the command line:
 flutter pub get
 flutter run
