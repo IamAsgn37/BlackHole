@@ -7,10 +7,7 @@ made-with-flutter Release Downloads Build Translation-Status
 Don't forget to ⭐ the repo
 GitHub stars GitHub forks GitHub followers
 
-Download
-Get it on IzzyDroid Get it on F-Droid
-
-      Download from GitHub        Join Telegram Channel
+# Download
 
 Translations
 Spanish 🇪🇸
@@ -59,15 +56,13 @@ and much more... Check it yourself :)
 Screenshots
      
 
-License
-Copyright © 2021 Ankit Sangwan
-
-BlackHole is a free software licensed under GPL v3.0
+# BlackHole is a free software licensed under GPL v3.0
 It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 Being Open Source doesn't mean you can just make a copy of the app and upload it on playstore or sell
 a closed source copy of the same.
 Read the following carefully:
+
 1. Any copy of a software under GPL must be under same license. So you can't upload the app on a closed source
   app repository like PlayStore/AppStore without distributing the source code.
 2. You can't sell any copied/modified version of the app under any "non-free" license.
