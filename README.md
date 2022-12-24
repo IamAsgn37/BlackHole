@@ -1,4 +1,6 @@
 # BlackHole
+![blackhole_post](https://user-images.githubusercontent.com/78717816/209446526-de0074ef-f1d1-46f8-9073-87e5ff4f9b6f.png)
+
 BlackHole Music App
 An Open-Source Music Player App for all your needs!
 
