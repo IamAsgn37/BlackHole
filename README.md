@@ -54,6 +54,8 @@ GitHub stars GitHub forks GitHub followers
 + and much more... Check it yourself :)
 
 # Screenshots
+![blackhole_post](https://user-images.githubusercontent.com/78717816/209446514-ab6fef17-6542-49fd-9c96-ab6c707a8c5e.png)
+
      
 
 # BlackHole is a free software licensed under GPL v3.0
